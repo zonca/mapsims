@@ -15,4 +15,4 @@ dependencies:
     - pip:
         - configobj
         - https://github.com/zonca/PySM_public/archive/pysm_light.zip
-        - https://github.com/simonsobs/so_pysm_models/archive/master.zip
+        - https://github.com/simonsobs/so_pysm_models/archive/0.1.0.zip
